@@ -5,7 +5,7 @@
 ## Introduction
 This is a code repository for the Medical pager chat app
 
-In this project I have  created a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end 
+In this project I have  created a full Realtime Chat Application.I have used React on the front end, NodeJS on the back end 
 
 This app consists of  Direct and Group Chats, emojis & Reactions, Built-in Gif support, the ability to edit & delete messages, specialized commands, and much more, this fully responsive Medical Pager.
 
